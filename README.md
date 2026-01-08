@@ -1,6 +1,6 @@
 # Bright Data's eBay プロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/ebay-proxy) 
+[![Promo](https://github.com/bright-kr/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.co.kr/solutions/ebay-proxy) 
 
 ## Overview
 정밀한 타기팅, 독보적인 안정성, 그리고 빠른 응답 시간을 제공하도록 설계된 Bright Data의 [eBay プロキシ](https://brightdata.co.kr/solutions/ebay-proxy)로 매끄러운 スクレイピング을 경험해 보시기 바랍니다.
